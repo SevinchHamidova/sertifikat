@@ -252,7 +252,7 @@ footer{
 }
 
 .navbar-toggler{
-   margin-left: 500px;
+   margin-left: 0px;
 }
 .navbar-light .navbar-nav .nav-link{
    color: white !important;
@@ -366,7 +366,7 @@ body{
 @media (max-width: 767px) {
     .header_bottom nav ul li a{
         font-size: 10px;
-        margin-right: 10px;
+        margin-right: 5px;
     }
     
     .header_bottom button{
@@ -427,7 +427,7 @@ body{
         margin-bottom: 20px;
     }
     .navbar-toggler{
-        margin-left: 0px;
+        margin-left: 100px;
     }
         
 }

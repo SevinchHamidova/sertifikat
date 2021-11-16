@@ -13,19 +13,19 @@ $(document).ready(function () {
         }, 500)
     })
  });
- $(document).ready(function () {
-    $(' img ').on('click', function(){
-        $(this).animate({
-            width: '70%' ,
-            marginLeft : "0px",
+//  $(document).ready(function () {
+//     $(' img ').on('click', function(){
+//         $(this).animate({
+//             width: '70%' ,
+//             marginLeft : "0px",
             
-        }, 2000)   
-        $(this).animate({
-           width: '100%' ,
-           marginRight : "0px",
+//         }, 2000)   
+//         $(this).animate({
+//            width: '100%' ,
+//            marginRight : "0px",
            
-       }, 2000)   
-        setInterval(100)
+//        }, 2000)   
+//         setInterval(100)
       
-    })
-});
+//     })
+// });

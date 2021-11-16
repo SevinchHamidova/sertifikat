@@ -24,17 +24,7 @@ $(document).ready(function () {
         }
     });
  });
-// window.addEventListener('load', function (e) {
-//     var text = document.querySelector('.section_top h2');
-//     var word = text.innerHTML
-//     text.innerHTML =''
-//     var i = 0
-//     var f = function(){
-//         text.innerHTML = text.innerHTML + word.charAt(i)
-//         i++
-//     } 
-//     setInterval(f, 200)
-// });
+
  $(document).ready(function () {
     $(window).scroll(function(){
         if($(this).scrollTop() > 100){
@@ -66,20 +56,6 @@ $(document).ready(function () {
       
     })
 });
-
-
-
-// window.addEventListener('load', function (e) {
-//     var text = document.querySelector('.section_top h2');
-//     var word = text.innerHTML
-//     text.innerHTML =''
-//     var i = 0
-//     var f = function(){
-//         text.innerHTML = text.innerHTML + word.charAt(i)
-//         i++
-//     } 
-//     setInterval(f, 200)
-// });
  $(document).ready(function () {
     $('.ustun1 img ').on('click', function(){
         $(this).animate({
@@ -139,138 +115,6 @@ $(document).ready(function () {
       
     })
 });
-// window.addEventListener('load', function (e) {
-//     var text = document.querySelector('.section_top h2');
-//     var word = text.innerHTML
-//     text.innerHTML =''
-//     var i = 0
-//     var f = function(){
-//         text.innerHTML = text.innerHTML + word.charAt(i)
-//         i++
-//     } 
-//     setInterval(f, 200)
-// });
-// window.addEventListener('load', function (e) {
-//     var text = document.querySelector('.section_top h2');
-//     var word = text.innerHTML
-//     text.innerHTML =''
-//     var i = 0
-//     var f = function(){
-//         text.innerHTML = text.innerHTML + word.charAt(i)
-//         i++
-//     } 
-//     setInterval(f, 200)
-// });
-// window.addEventListener('load', function (e) {
-//     var text = document.querySelector('.section_top h2');
-//     var word = text.innerHTML
-//     text.innerHTML =''
-//     var i = 0
-//     var f = function(){
-//         text.innerHTML = text.innerHTML + word.charAt(i)
-//         i++
-//     } 
-//     setInterval(f, 200)
-// });
-// window.addEventListener('load', function (e) {
-//     var text = document.querySelector('.section_top h2');
-//     var word = text.innerHTML
-//     text.innerHTML =''
-//     var i = 0
-//     var f = function(){
-//         text.innerHTML = text.innerHTML + word.charAt(i)
-//         i++
-//     } 
-//     setInterval(f, 200)
-// });
-// window.addEventListener('load', function (e) {
-//     var text = document.querySelector('.section_top h2');
-//     var word = text.innerHTML
-//     text.innerHTML =''
-//     var i = 0
-//     var f = function(){
-//         text.innerHTML = text.innerHTML + word.charAt(i)
-//         i++
-//     } 
-//     setInterval(f, 200)
-// });
-// window.addEventListener('load', function (e) {
-//     var text = document.querySelector('.section_top h2');
-//     var word = text.innerHTML
-//     text.innerHTML =''
-//     var i = 0
-//     var f = function(){
-//         text.innerHTML = text.innerHTML + word.charAt(i)
-//         i++
-//     } 
-//     setInterval(f, 200)
-// });
-// window.addEventListener('load', function (e) {
-//     var text = document.querySelector('.section_top h2');
-//     var word = text.innerHTML
-//     text.innerHTML =''
-//     var i = 0
-//     var f = function(){
-//         text.innerHTML = text.innerHTML + word.charAt(i)
-//         i++
-//     } 
-//     setInterval(f, 200)
-// });
-// window.addEventListener('load', function (e) {
-//     var text = document.querySelector('.section_top h2');
-//     var word = text.innerHTML
-//     text.innerHTML =''
-//     var i = 0
-//     var f = function(){
-//         text.innerHTML = text.innerHTML + word.charAt(i)
-//         i++
-//     } 
-//     setInterval(f, 200)
-// });
-// window.addEventListener('load', function (e) {
-//     var text = document.querySelector('.section_top h2');
-//     var word = text.innerHTML
-//     text.innerHTML =''
-//     var i = 0
-//     var f = function(){
-//         text.innerHTML = text.innerHTML + word.charAt(i)
-//         i++
-//     } 
-//     setInterval(f, 200)
-// });
-// window.addEventListener('load', function (e) {
-//     var text = document.querySelector('.section_top h2');
-//     var word = text.innerHTML
-//     text.innerHTML =''
-//     var i = 0
-//     var f = function(){
-//         text.innerHTML = text.innerHTML + word.charAt(i)
-//         i++
-//     } 
-//     setInterval(f, 200)
-// });
-// window.addEventListener('load', function (e) {
-//     var text = document.querySelector('.section_top h2');
-//     var word = text.innerHTML
-//     text.innerHTML =''
-//     var i = 0
-//     var f = function(){
-//         text.innerHTML = text.innerHTML + word.charAt(i)
-//         i++
-//     } 
-//     setInterval(f, 200)
-// });
-// window.addEventListener('load', function (e) {
-//     var text = document.querySelector('.section_top h2');
-//     var word = text.innerHTML
-//     text.innerHTML =''
-//     var i = 0
-//     var f = function(){
-//         text.innerHTML = text.innerHTML + word.charAt(i)
-//         i++
-//     } 
-//     setInterval(f, 200)
-// });
 
 
 

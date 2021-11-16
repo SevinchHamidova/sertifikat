@@ -197,7 +197,7 @@ footer{
 }
 
 .navbar-toggler{
-   margin-left: 0px;
+   margin-left: 0px !important;
 }
 .navbar-light .navbar-nav .nav-link{
    color: white !important;
@@ -264,6 +264,10 @@ footer{
     .footer_top .fa{
         display: none !important;
     }
+
+.navbar-toggler{
+    margin-left: 0px !important;
+}
 }
 @media (max-width: 575px) {
     .header_top h2{
@@ -305,7 +309,7 @@ footer{
         margin-bottom: 20px;
     }
     .navbar-toggler{
-        margin-left: 0px;
+        margin-left: 100px;
     }
         
 }

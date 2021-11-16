@@ -204,7 +204,7 @@ footer{
 }
 
 .navbar-toggler{
-   margin-left: 500px;
+   margin-left: 0px;
 }
 .navbar-light .navbar-nav .nav-link{
    color: white !important;
@@ -380,6 +380,6 @@ img{
         margin-bottom: 20px;
     }
     .navbar-toggler{
-        margin-left: 0px;
+        margin-left: 100px;
     }    
 }
